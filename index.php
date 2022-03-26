@@ -38,7 +38,7 @@
                   <button class="rd-navbar-toggle" data-rd-navbar-toggle=".rd-navbar-nav-wrap"><span></span></button>
                   <!-- RD Navbar Brand-->
                   <div class="rd-navbar-brand">
-                    <!--Brand--><a class="brand" href="index.php"><img src="images/logo-default-450x37.png" alt="" width="225" height="18"/></a>
+                    <!--Brand--><a class="brand" href="index.html"><img src="images/logo-default-450x37.png" alt="" width="225" height="18"/></a>
                   </div>
                 </div>
                 <div class="rd-navbar-aside-right rd-navbar-collapse">
@@ -72,14 +72,20 @@
                   </ul>
                   <!-- RD Navbar Nav-->
                   <ul class="rd-navbar-nav">
-                    <li class="rd-nav-item active"><a class="rd-nav-link" href="index.php">Home</a>
+                    <li class="rd-nav-item active"><a class="rd-nav-link" href="index.html">Home</a>
                     </li>
-                    <li class="rd-nav-item"><a class="rd-nav-link" href="about.php">About</a>
+                    <li class="rd-nav-item"><a class="rd-nav-link" href="about.html">About</a>
                     </li>
-                    <li class="rd-nav-item"><a class="rd-nav-link" href="typography.php">Typography</a>
+                    <li class="rd-nav-item"><a class="rd-nav-link" href="typography.html">Typography</a>
                     </li>
-                    <li class="rd-nav-item"><a class="rd-nav-link" href="contact-us.php">Contact Us</a>
+                    <li class="rd-nav-item"><a class="rd-nav-link" href="contact-us.html">Contact Us</a>
                     </li>
+                    <li class="rd-nav-item"><a class="rd-nav-link" href="post.php">Post Query</a>
+                  </li>
+                  <li class="rd-nav-item"><a class="rd-nav-link" href="exchange rate/index.html">Currency Rate</a>
+                  </li>
+                  <li class="rd-nav-item"><a class="rd-nav-link" href="gas_station_search.php">Search Gas Station</a>
+                  </li>
                   </ul>
                 </div>
               </div>
@@ -184,15 +190,15 @@
                   <div class="tab-content">
                     <div class="tab-pane fade show active" id="tabs-7-1">
                       <p>Wonder Tour is committed to bringing our clients the best in value and quality travel arrangements. We are passionate about travel and sharing the world's wonders with you.</p>
-                      <div class="group-md group-middle"><a class="button button-secondary button-pipaluk" href="contact-us.php">Get in Touch</a><a class="button button-black-outline button-md" href="about.php">Read More</a></div>
+                      <div class="group-md group-middle"><a class="button button-secondary button-pipaluk" href="contact-us.html">Get in Touch</a><a class="button button-black-outline button-md" href="about.html">Read More</a></div>
                     </div>
                     <div class="tab-pane fade" id="tabs-7-2">
                       <p>We are proud to offer excellent quality and value for money in our tours, which give you the chance to experience your chosen destination in an authentic and exciting way.</p>
-                      <div class="group-md group-middle"><a class="button button-secondary button-pipaluk" href="contact-us.php">Get in Touch</a><a class="button button-black-outline button-md" href="about.php">Read More</a></div>
+                      <div class="group-md group-middle"><a class="button button-secondary button-pipaluk" href="contact-us.html">Get in Touch</a><a class="button button-black-outline button-md" href="about.html">Read More</a></div>
                     </div>
                     <div class="tab-pane fade" id="tabs-7-3">
                       <p>Our mission is to provide the ultimate travel planning experience while becoming a one-stop shop for every travel service available in the industry.</p>
-                      <div class="group-md group-middle"><a class="button button-secondary button-pipaluk" href="contact-us.php">Get in Touch</a><a class="button button-black-outline button-md" href="about.php">Read More</a></div>
+                      <div class="group-md group-middle"><a class="button button-secondary button-pipaluk" href="contact-us.html">Get in Touch</a><a class="button button-black-outline button-md" href="about.html">Read More</a></div>
                     </div>
                   </div>
                 </div>
@@ -533,7 +539,7 @@
                   <div class="wow slideInLeft" data-wow-delay="0s">
                     <h6 class="text-spacing-100 text-uppercase">Quick links</h6>
                     <ul class="row-6 list-0 list-marked list-marked-md list-marked-secondary list-custom-2">
-                      <li><a href="about.php">About us</a></li>
+                      <li><a href="about.html">About us</a></li>
                       <li><a href="#">Our Tours</a></li>
                       <li><a href="#">Our Team</a></li>
                       <li><a href="#">Gallery</a></li>
